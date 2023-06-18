@@ -1,7 +1,7 @@
 # Action = 'list'
 
-[action='list'](https://ibb.co/BKndjqV)
+[action='get, add, remove'](https://ibb.co/9WHK6DD)
 
 # Action = 'get, add, remove'
 
-[action='get, add, remove'](https://ibb.co/9WHK6DD)
+[action='list'](https://ibb.co/BKndjqV)
